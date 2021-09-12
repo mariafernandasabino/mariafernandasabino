@@ -11,5 +11,8 @@
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafernandasabino&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=mariafernandasabino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ##
+  <h2>Contatos:</h2>  
+ <div>
+  <a href = "mailto:mafemsos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-fernanda-sabino-3209a6198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
