@@ -6,6 +6,7 @@
 <p>• 🐰 Criadora de coelhos;</p>
 <p>• 😍 Apaixonada por animes e mangás;</p>
 <p>• ✍ Aprendendo pixel-art;</p>
+<p>• 💻 Aprendendo C# e JavaScript.</p>
 <div>
   <a href="https://github.com/mariafernandasabino">
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariafernandasabino&layout=compact&langs_count=7&theme=github_dark"/>
