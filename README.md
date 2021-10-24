@@ -2,7 +2,7 @@
 <h1>Oii, eu sou a Nanda!</h1>
 <h2>Sobre mim:</h2>
 <p>• 🥰 Pronomes: ela/dela;</p>
-<p>• 📚 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Univali;</p>
+<p>• 📚 Estudante;</p>
 <p>• 🐰 Criadora de coelhos;</p>
 <p>• 😍 Apaixonada por animes e mangás;</p>
 <p>• ✍ Aprendendo pixel-art;</p>
